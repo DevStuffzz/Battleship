@@ -18,13 +18,13 @@ A simple console-based **Battleship** game implemented in **Java**. The game all
 ---
 
 ## Project Structure
-Battleship/    \n
-├── src/       \n
-│ ├── Tile.java      \n
-│ ├── Board.java      \n
-│ ├── Game.java      \n
-│ └── Util.java      \n
-├── README.md      \n
+Battleship/  
+├── src/  
+│ ├── Tile.java  
+│ ├── Board.java  
+│ ├── Game.java  
+│ └── Util.java  
+├── README.md  
 
 
 - `Tile.java` – Represents a single cell on the board.  
